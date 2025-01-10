@@ -1,5 +1,5 @@
 {
-    "Version": "20",
+    "Version": "21",
     "ReleaseNotes": "♻️ HSK SSH OFICIAL!!!! Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado ♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 16\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -12,7 +12,7 @@
 ✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
 SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA ABRINDO TODOS APP DE BANCOS E APOSTAS ONLINE.",
     "Sms": "https://bitbin.it/AAHR6fb6/raw/",
-    "UrlUpdate": "https://raw.githubusercontent.com/pedroyi1790hk/Ckkfkfk/refs/heads/main/README.md",
+    "UrlUpdate": "",
     "EmailFeedback": "hskhost@gmail.com",
     "UrlContato": "https://wa.me/7199067683",
     "UrlTermos": "https://t.me/HSK_SSH",
