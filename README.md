@@ -66,7 +66,7 @@ SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA ABRINDO TODOS APP DE BAN
             "Payload": "[split]BMOVE https://autenticahml.vivo.com.br/[host]HTTP/1.6[crlf]Host: www.cotclaro.com.br[crlf]Host: autenticaint.cname.vivo.com.br[crlf]Connection: close[crlf]X-Forwarded-For: www.speedtest.net[lf]Content-Length: 123456789\\nGuate-Control: DA-NI\\nGuate: DA-NI\\nConnection: closedani[crlf][crlf]#[delay_split]\\nBDELETE http://www.recargafacil.claro.com.brHTTP/1.1[lf]Host: blog.meusite.vivo.com.br[lf]Connection: close[crlf]X-Forwarded-For: autenticaint.cname.vivo.com.br[lf]Content-Length: 123456789\\nGuate-Control: DA-NI[lf]Guate: DA-NI\\nConnection: closedani[lf] [lf]#[split][lf]PATCH http://[host_port]HTTP/1.1[lf]Host: checkout.vivo.com.br[lf]Connection: close[crlf]X-Forwarded-For:  checkout.meusite.vivo.com.br[lf]Content-Length: 123456789\\nGuate-Control: DA-NI\\nGuate: DA-NI\\nConnection: closedani[lf][lf]#[delay_split]LOCK / [host_port][lf]Content-Length: 123456789\\nGuate-Control: DA-NI\\nGuate: DA-NI\\nConnection: closedani[lf] [lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.16.51.111",
+            "ProxyIP": "185.194.204.110",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
