@@ -12,7 +12,7 @@
 ✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
 SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA ABRINDO TODOS APP DE BANCOS E APOSTAS ONLINE.",
     "Sms": "https://bitbin.it/AAHR6fb6/raw/",
-    "UrlUpdate": "",
+    "UrlUpdate": "https://github.com/pedroyi1790hk/Ckkfkfk/blob/main/README.md",
     "EmailFeedback": "hskhost@gmail.com",
     "UrlContato": "https://wa.me/7199067683",
     "UrlTermos": "https://t.me/HSK_SSH",
